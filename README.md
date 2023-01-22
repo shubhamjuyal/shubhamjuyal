@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Juyal</h1>
+<h1 align="center">Shubham Juyal</h1>
 <h3 align="center">I like programming (really)</h3>
 
 - 🔭 knows a lil bit about **web dev and DSA**
